@@ -12,8 +12,8 @@ You have to Enter your date of birth
     
 - [quotientandremainder.py](https://github.com/dibashthapa/Solved-Challenges/blob/master/quotientandremainder.py) This file contains the program that finds the greatest 3digits of palindrome number
 
-- [smallestmultiple.py] (https://github.com/dibashthapa/Solved-Challenges/blob/master/smallestmultiple.py) This file contains the 
+- [smallestmultiple.py](https://github.com/dibashthapa/Solved-Challenges/blob/master/smallestmultiple.py) This file contains the 
   program to find the lcm of a given number
   
-- [sumsquare.py] (https://github.com/dibashthapa/Solved-Challenges/blob/master/sumsquare.py) This file contains the program to find 
+- [sumsquare.py](https://github.com/dibashthapa/Solved-Challenges/blob/master/sumsquare.py) This file contains the program to find 
   difference between sum of square and square of number
